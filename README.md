@@ -1,5 +1,6 @@
-# maelink server
-This is the backend server for maelink.
+# maelink legacy server
+This was the backend server for maelink unil March 2nd, 2025.
 > [!Warning]
-> Some versions may be unstable!
-> Unless the commit version is a "release", use at your own risk.
+> This is the legacy server! Use at your own risk!
+>
+> Get the new server at: \<link\>
